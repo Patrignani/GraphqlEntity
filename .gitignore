@@ -1,0 +1,11 @@
+GraphqlEntity/obj/
+GraphqlEntity/.vs/
+GraphqlEntity.Core/obj/Debug/netcoreapp3.0/GraphqlEntity.Core.AssemblyInfoInputs.cache
+GraphqlEntity.Core/obj/
+GraphqlEntity.Core/bin/
+GraphqlEntity/bin/
+.vs/
+src/GraphqlEntity.Core/bin/
+src/GraphqlEntity.Core/obj/
+src/GraphqlEntity/bin/
+src/GraphqlEntity/obj/
